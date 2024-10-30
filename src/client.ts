@@ -47,9 +47,6 @@ export class SIWS {
       };
     } else {
       Object.assign(this, param);
-      if (typeof this.payload.chainId === "string") {
-        this.payload.chainId = parseInt(this.payload.chainId);
-      }
       if (!this.payload.nonce) {
         this.payload.nonce = randomBytes(8).toString("hex");
       }
