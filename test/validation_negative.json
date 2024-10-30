@@ -11,7 +11,7 @@
       "version": "1",
       "nonce": "feswegg1",
       "issuedAt": "2021-04-01T11:47:23.844Z",
-      "chainId": 1,
+      "chainId": "1",
       "expirationTime": "2021-01-05T00:00:00Z"
     },
     "signature": {
@@ -31,7 +31,7 @@
       "version": "1",
       "nonce": "wiasdflk",
       "issuedAt": "2021-04-03T11:21:13.464Z",
-      "chainId": 1,
+      "chainId": "1",
       "expirationTime": "2121-04-04T11:21:13.464Z"
     },
     "signature": {
@@ -51,7 +51,7 @@
       "version": "1",
       "nonce": "bTyXgcQxn2htgkjJn",
       "issuedAt": "2021-04-03T16:11:13.424Z",
-      "chainId": 1,
+      "chainId": "1",
       "expirationTime": "2121-04-04T11:21:13.464Z"
     },
     "signature": {
@@ -71,7 +71,7 @@
       "version": "1",
       "nonce": "asd8asdf",
       "issuedAt": "2021-04-04T11:21:13.464Z",
-      "chainId": 1,
+      "chainId": "1",
       "expirationTime": "2022-22-32T00:00:00.000Z"
     },
     "signature": {

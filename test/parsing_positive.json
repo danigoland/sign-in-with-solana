@@ -11,7 +11,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z",
         "resources": ["ipfs://Qme7ss3ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiu", "https://example.com/my-web2-claim.json"]
@@ -30,7 +30,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z"
       }
@@ -48,7 +48,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-09-30T16:25:24Z"
       }
@@ -66,7 +66,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z"
       }
@@ -84,7 +84,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z"
       }
@@ -102,7 +102,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z"
       }
@@ -120,7 +120,7 @@
         "statement": "I accept the ServiceOrg Terms of Service: https://service.org/tos",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z"
       }
@@ -137,7 +137,7 @@
         "address": "43h6BNKzvoV43qBLje5dxn7vhcChZjVEAn8PQLZvMiqj",
         "uri": "https://service.org/login",
         "version": "1",
-        "chainId": 1,
+        "chainId": "1",
         "nonce": "32832457",
         "issuedAt": "2021-01-11T11:15:23.000Z"
       }
